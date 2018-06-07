@@ -1,0 +1,28 @@
+[{
+    "_id": "c-05",
+    "_parentId":"b-05",
+    "_type":"component",
+    "_classes": "",
+    "_layout": "full",
+    "_component": "youtube",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction":"",
+    "_setCompletionOn": "ended",
+    "_media": {
+        "_source": "//www.youtube.com/embed/xxxxx",
+        "_aspectRatio": 1.77,
+        "_autoplay": false,
+        "_showRelated": false,
+        "_loop": false,
+        "_modestBranding": true,
+        "_playbackQuality": "hd720",
+        "_showAnnotations": false,
+        "_progressColor": "blue"
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true
+    }
+}
+]

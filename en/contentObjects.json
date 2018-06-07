@@ -1,0 +1,21 @@
+[
+	{
+		"_id": "co-05",
+		"_parentId": "course",
+		"_type": "page",
+		"_classes": "",
+		"title": "",
+		"displayTitle": "",
+		"body": "",
+		"pageBody": "",
+		"instruction": "",
+		"_graphic": {
+			"src": "course/en/images/MenuSlot_default.png",
+			"alt": "Placeholder graphic."
+		},
+		"linkText": "Click here to learn more",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	}
+]
